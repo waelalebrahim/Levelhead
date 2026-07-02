@@ -4,8 +4,10 @@
 
 ---
 
-[object Object]
+We're preparing to open Wavn's invite-only preview. Goal is to control cost and gather real usage before widening the door. test
 
-[object Object]
+Open concerns: engine cost per active user, onboarding friction, and whether the five-engine story lands without explanation. test
 
-[object Object]
+Wire the cost-alert emails before opening the door, so any per-user cost cliff triggers a notification immediately. test test
+
+Should Pro and Team plans show as "at launch" during preview, or should only Solo be visible until pricing is final? test test
