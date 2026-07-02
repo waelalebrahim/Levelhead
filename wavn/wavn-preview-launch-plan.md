@@ -1,13 +1,15 @@
 # Wavn Preview Launch Plan
 
-*Exported from Wavn — 2026-07-02*
+*Exported from Wavn · 2026-07-02*
 
 ---
 
-We're preparing to open Wavn's invite-only preview. Goal is to control cost and gather real usage before widening the door. test
+## Decisions
+
+### Decision: We're preparing to open Wavn's invite-only preview. Goal is to control cost and gather real usage before widening the door. testhujkjb
 
 Open concerns: engine cost per active user, onboarding friction, and whether the five-engine story lands without explanation. test
 
-Wire the cost-alert emails before opening the door, so any per-user cost cliff triggers a notification immediately. test test
+### Action: Wire the cost-alert emails before opening the door, so any per-user cost cliff triggers a notification immediately. test testkugg
 
-Should Pro and Team plans show as "at launch" during preview, or should only Solo be visible until pricing is final? test test
+### Open question: Should Pro and Team plans show as "at launch" during preview, or should only Solo be visible until pricing is final? test test
